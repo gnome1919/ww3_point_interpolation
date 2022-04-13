@@ -1,2 +1,2 @@
 # WWIII-Point_Interpolation
-WAVEWATCH III Arbitrary Point Interpolation on ASCII Output Files
+WAVEWATCH III Arbitrary Point Interpolation for ASCII Output Files
